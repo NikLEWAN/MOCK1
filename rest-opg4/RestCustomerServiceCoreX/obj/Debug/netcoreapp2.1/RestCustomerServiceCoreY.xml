@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RestCustomerServiceCoreY</name>
+    </assembly>
+    <members>
+        <member name="M:RestCustomerServiceCoreY.Controllers.CustomerController.Get">
+            <summary>
+            Base Uri Rest GET - List all
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:RestCustomerServiceCoreY.Controllers.CustomerController.GetCustomer(System.Int64)">
+            <summary>
+            Uri ID Parameter - List specific id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RestCustomerServiceCoreY.Controllers.CustomerController.GetCustomer1(System.Int64)">
+            <summary>
+            Special ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RestCustomerServiceCoreY.Controllers.CustomerController.InsertCustomer(RestCustomerServiceCoreY.Model.Customer)">
+            <summary>
+            Post to Customers
+            </summary>
+            <param name="customer"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RestCustomerServiceCoreY.Controllers.CustomerController.UpdateCustomer(System.Int64,RestCustomerServiceCoreY.Model.Customer)">
+            <summary>
+            Put into Customers
+            </summary>
+            <param name="id"></param>
+            <param name="customer"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RestCustomerServiceCoreY.Controllers.CustomerController.DeleteCustomer(System.Int64)">
+            <summary>
+            Delete Customer by Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

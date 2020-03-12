@@ -1,0 +1,14 @@
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\D Drive\Undervisning\CodsC#\Solutions\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\D Drive\Undervisning\CODS#2\TCPEchoServerClientX\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\D Drive\Undervisning\CODS#2\TCPEchoServerClientX\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\D Drive\Undervisning\CODS#2\TCPEchoServerClientX\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\xnikm\Desktop\3sem\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\xnikm\Desktop\3sem\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\xnikm\Desktop\3sem\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\xnikm\Desktop\3sem\TCPClient\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache
+C:\Users\xnikm\Desktop\3sem\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\xnikm\Desktop\3sem\TCPClient\TCPClient\obj\Debug\TCPClient.pdb

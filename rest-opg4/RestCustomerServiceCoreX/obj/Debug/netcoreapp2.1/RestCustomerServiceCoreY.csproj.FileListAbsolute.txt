@@ -1,0 +1,51 @@
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.csproj.CoreCompileInputs.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.RazorAssemblyInfo.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.RazorAssemblyInfo.cs
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.AssemblyInfoInputs.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.AssemblyInfo.cs
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreY.deps.json
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreY.runtimeconfig.json
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreY.runtimeconfig.dev.json
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreY.dll
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreY.pdb
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.RazorTargetAssemblyInfo.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.dll
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.pdb
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreY.deps.json
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreY.runtimeconfig.json
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreY.runtimeconfig.dev.json
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreY.dll
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreY.pdb
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.csprojAssemblyReference.cache
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.RazorAssemblyInfo.cache
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.RazorAssemblyInfo.cs
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.AssemblyInfoInputs.cache
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.AssemblyInfo.cs
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.RazorTargetAssemblyInfo.cache
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.dll
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.pdb
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreY.xml
+C:\Users\xnikm\Desktop\3sem\teknologi\Restopg4\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\xnikm\Desktop\3sem\teknologi\Restopg4\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\xnikm\Desktop\3sem\teknologi\Restopg4\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\xnikm\Desktop\3sem\teknologi\Restopg4\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreY.deps.json
+C:\Users\xnikm\Desktop\3sem\teknologi\Restopg4\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreY.runtimeconfig.json
+C:\Users\xnikm\Desktop\3sem\teknologi\Restopg4\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreY.runtimeconfig.dev.json
+C:\Users\xnikm\Desktop\3sem\teknologi\Restopg4\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreY.dll
+C:\Users\xnikm\Desktop\3sem\teknologi\Restopg4\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreY.pdb
+C:\Users\xnikm\Desktop\3sem\teknologi\Restopg4\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreY.xml
+C:\Users\xnikm\Desktop\3sem\teknologi\Restopg4\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.csprojAssemblyReference.cache
+C:\Users\xnikm\Desktop\3sem\teknologi\Restopg4\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.RazorAssemblyInfo.cache
+C:\Users\xnikm\Desktop\3sem\teknologi\Restopg4\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.RazorAssemblyInfo.cs
+C:\Users\xnikm\Desktop\3sem\teknologi\Restopg4\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\xnikm\Desktop\3sem\teknologi\Restopg4\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.AssemblyInfoInputs.cache
+C:\Users\xnikm\Desktop\3sem\teknologi\Restopg4\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.AssemblyInfo.cs
+C:\Users\xnikm\Desktop\3sem\teknologi\Restopg4\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.RazorTargetAssemblyInfo.cache
+C:\Users\xnikm\Desktop\3sem\teknologi\Restopg4\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.dll
+C:\Users\xnikm\Desktop\3sem\teknologi\Restopg4\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.xml
+C:\Users\xnikm\Desktop\3sem\teknologi\Restopg4\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreY.pdb

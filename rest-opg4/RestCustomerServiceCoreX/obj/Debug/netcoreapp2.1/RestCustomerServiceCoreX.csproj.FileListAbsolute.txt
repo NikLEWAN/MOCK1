@@ -1,0 +1,15 @@
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreX\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreX.deps.json
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreX\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreX.runtimeconfig.json
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreX\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreX.runtimeconfig.dev.json
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreX\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreX.dll
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreX\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreX.csprojAssemblyReference.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreX\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreX.csproj.CoreCompileInputs.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreX\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreX.RazorAssemblyInfo.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreX\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreX.RazorAssemblyInfo.cs
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreX\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreX.AssemblyInfoInputs.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreX\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreX.AssemblyInfo.cs
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreX\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreX.RazorTargetAssemblyInfo.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreX\RestCustomerServiceCoreX\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreX.pdb
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreX\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreX.dll
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreX\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\RestCustomerServiceCoreX.pdb
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreX\RestCustomerServiceCoreX\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

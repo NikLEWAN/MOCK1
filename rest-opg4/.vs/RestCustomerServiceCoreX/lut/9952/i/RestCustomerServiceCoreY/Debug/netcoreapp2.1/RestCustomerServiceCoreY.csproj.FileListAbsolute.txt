@@ -1,0 +1,13 @@
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\b\RestCustomerServiceCoreY\Debug\netcoreapp2.1\RestCustomerServiceCoreY.deps.json
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\b\RestCustomerServiceCoreY\Debug\netcoreapp2.1\RestCustomerServiceCoreY.runtimeconfig.json
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\b\RestCustomerServiceCoreY\Debug\netcoreapp2.1\RestCustomerServiceCoreY.runtimeconfig.dev.json
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\b\RestCustomerServiceCoreY\Debug\netcoreapp2.1\RestCustomerServiceCoreY.dll
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\i\RestCustomerServiceCoreY\Debug\netcoreapp2.1\RestCustomerServiceCoreY.csprojAssemblyReference.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\i\RestCustomerServiceCoreY\Debug\netcoreapp2.1\RestCustomerServiceCoreY.csproj.CoreCompileInputs.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\i\RestCustomerServiceCoreY\Debug\netcoreapp2.1\RestCustomerServiceCoreY.RazorAssemblyInfo.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\i\RestCustomerServiceCoreY\Debug\netcoreapp2.1\RestCustomerServiceCoreY.RazorAssemblyInfo.cs
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\i\RestCustomerServiceCoreY\Debug\netcoreapp2.1\RestCustomerServiceCoreY.AssemblyInfoInputs.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\i\RestCustomerServiceCoreY\Debug\netcoreapp2.1\RestCustomerServiceCoreY.AssemblyInfo.cs
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\i\RestCustomerServiceCoreY\Debug\netcoreapp2.1\RestCustomerServiceCoreY.RazorTargetAssemblyInfo.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\i\RestCustomerServiceCoreY\Debug\netcoreapp2.1\RestCustomerServiceCoreY.csproj.CopyComplete
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\i\RestCustomerServiceCoreY\Debug\netcoreapp2.1\RestCustomerServiceCoreY.dll

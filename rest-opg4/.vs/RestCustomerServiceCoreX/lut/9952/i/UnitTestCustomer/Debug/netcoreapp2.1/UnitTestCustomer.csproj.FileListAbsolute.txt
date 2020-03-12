@@ -1,0 +1,13 @@
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\b\UnitTestCustomer\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\b\UnitTestCustomer\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\b\UnitTestCustomer\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\b\UnitTestCustomer\Debug\netcoreapp2.1\UnitTestCustomer.deps.json
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\b\UnitTestCustomer\Debug\netcoreapp2.1\UnitTestCustomer.runtimeconfig.json
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\b\UnitTestCustomer\Debug\netcoreapp2.1\UnitTestCustomer.runtimeconfig.dev.json
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\b\UnitTestCustomer\Debug\netcoreapp2.1\UnitTestCustomer.dll
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\i\UnitTestCustomer\Debug\netcoreapp2.1\UnitTestCustomer.csprojAssemblyReference.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\i\UnitTestCustomer\Debug\netcoreapp2.1\UnitTestCustomer.csproj.CoreCompileInputs.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\i\UnitTestCustomer\Debug\netcoreapp2.1\UnitTestCustomer.AssemblyInfoInputs.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\i\UnitTestCustomer\Debug\netcoreapp2.1\UnitTestCustomer.AssemblyInfo.cs
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\i\UnitTestCustomer\Debug\netcoreapp2.1\UnitTestCustomer.csproj.CopyComplete
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\.vs\RestCustomerServiceCoreX\lut\0\i\UnitTestCustomer\Debug\netcoreapp2.1\UnitTestCustomer.dll

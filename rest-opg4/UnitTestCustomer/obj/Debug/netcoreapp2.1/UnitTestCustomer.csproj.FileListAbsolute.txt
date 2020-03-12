@@ -1,0 +1,36 @@
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\UnitTestCustomer\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\UnitTestCustomer\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\UnitTestCustomer\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\UnitTestCustomer\bin\Debug\netcoreapp2.1\UnitTestCustomer.deps.json
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\UnitTestCustomer\bin\Debug\netcoreapp2.1\UnitTestCustomer.runtimeconfig.json
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\UnitTestCustomer\bin\Debug\netcoreapp2.1\UnitTestCustomer.runtimeconfig.dev.json
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\UnitTestCustomer\bin\Debug\netcoreapp2.1\UnitTestCustomer.dll
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\UnitTestCustomer\obj\Debug\netcoreapp2.1\UnitTestCustomer.csprojAssemblyReference.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\UnitTestCustomer\obj\Debug\netcoreapp2.1\UnitTestCustomer.csproj.CoreCompileInputs.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\UnitTestCustomer\obj\Debug\netcoreapp2.1\UnitTestCustomer.AssemblyInfoInputs.cache
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\UnitTestCustomer\obj\Debug\netcoreapp2.1\UnitTestCustomer.AssemblyInfo.cs
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\UnitTestCustomer\bin\Debug\netcoreapp2.1\UnitTestCustomer.pdb
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\UnitTestCustomer\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreY.dll
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\UnitTestCustomer\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreY.pdb
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\UnitTestCustomer\obj\Debug\netcoreapp2.1\UnitTestCustomer.csproj.CopyComplete
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\UnitTestCustomer\obj\Debug\netcoreapp2.1\UnitTestCustomer.dll
+C:\D Drive\Undervisning\CodsC#\Solutions\RestCustomerServiceCoreY\UnitTestCustomer\obj\Debug\netcoreapp2.1\UnitTestCustomer.pdb
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\UnitTestCustomer\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\UnitTestCustomer\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\UnitTestCustomer\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\UnitTestCustomer\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\UnitTestCustomer\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\UnitTestCustomer\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\UnitTestCustomer\bin\Debug\netcoreapp2.1\UnitTestCustomer.deps.json
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\UnitTestCustomer\bin\Debug\netcoreapp2.1\UnitTestCustomer.runtimeconfig.json
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\UnitTestCustomer\bin\Debug\netcoreapp2.1\UnitTestCustomer.runtimeconfig.dev.json
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\UnitTestCustomer\bin\Debug\netcoreapp2.1\UnitTestCustomer.dll
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\UnitTestCustomer\bin\Debug\netcoreapp2.1\UnitTestCustomer.pdb
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\UnitTestCustomer\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreY.dll
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\UnitTestCustomer\bin\Debug\netcoreapp2.1\RestCustomerServiceCoreY.pdb
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\UnitTestCustomer\obj\Debug\netcoreapp2.1\UnitTestCustomer.csprojAssemblyReference.cache
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\UnitTestCustomer\obj\Debug\netcoreapp2.1\UnitTestCustomer.AssemblyInfoInputs.cache
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\UnitTestCustomer\obj\Debug\netcoreapp2.1\UnitTestCustomer.AssemblyInfo.cs
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\UnitTestCustomer\obj\Debug\netcoreapp2.1\UnitTestCustomer.csproj.CopyComplete
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\UnitTestCustomer\obj\Debug\netcoreapp2.1\UnitTestCustomer.dll
+C:\Users\xnikm\Desktop\3sem\teknologi\RestCustomerServiceCoreX\UnitTestCustomer\obj\Debug\netcoreapp2.1\UnitTestCustomer.pdb

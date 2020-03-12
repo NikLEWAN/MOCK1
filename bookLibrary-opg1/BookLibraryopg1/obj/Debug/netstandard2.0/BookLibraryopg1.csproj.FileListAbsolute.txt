@@ -1,0 +1,8 @@
+C:\Users\xnikm\Desktop\3sem\programmering\BookLibraryopg1\BookLibraryopg1\bin\Debug\netstandard2.0\BookLibraryopg1.deps.json
+C:\Users\xnikm\Desktop\3sem\programmering\BookLibraryopg1\BookLibraryopg1\bin\Debug\netstandard2.0\BookLibraryopg1.dll
+C:\Users\xnikm\Desktop\3sem\programmering\BookLibraryopg1\BookLibraryopg1\bin\Debug\netstandard2.0\BookLibraryopg1.pdb
+C:\Users\xnikm\Desktop\3sem\programmering\BookLibraryopg1\BookLibraryopg1\obj\Debug\netstandard2.0\BookLibraryopg1.csprojAssemblyReference.cache
+C:\Users\xnikm\Desktop\3sem\programmering\BookLibraryopg1\BookLibraryopg1\obj\Debug\netstandard2.0\BookLibraryopg1.AssemblyInfoInputs.cache
+C:\Users\xnikm\Desktop\3sem\programmering\BookLibraryopg1\BookLibraryopg1\obj\Debug\netstandard2.0\BookLibraryopg1.AssemblyInfo.cs
+C:\Users\xnikm\Desktop\3sem\programmering\BookLibraryopg1\BookLibraryopg1\obj\Debug\netstandard2.0\BookLibraryopg1.dll
+C:\Users\xnikm\Desktop\3sem\programmering\BookLibraryopg1\BookLibraryopg1\obj\Debug\netstandard2.0\BookLibraryopg1.pdb
